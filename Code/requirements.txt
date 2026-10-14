@@ -1,0 +1,13 @@
+gradio>=4,<6
+torch
+torchvision
+diffusers>=0.27,<1
+transformers>=4.39,<5
+huggingface_hub>=0.23,<1
+# Optional faster HF download:
+# hf_xet
+safetensors>=0.4,<1
+accelerate>=0.28,<1
+pillow>=10,<12
+numpy>=1.24,<3
+fashn-human-parser

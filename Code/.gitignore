@@ -1,0 +1,14 @@
+hub/
+nn/result/
+result/
+__pycache__/
+*.pyc
+.env
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+debug_*.png
+result_temp.jpg
+test_*.py
